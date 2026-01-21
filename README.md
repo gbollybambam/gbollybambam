@@ -1,4 +1,4 @@
-# Hi there, I'm Gbolahan O. 👋
+# Hi there, I'm Gbolahan Olanrewaju. 👋
 
 ### 🚀 Lead Full Stack Engineer | Founder of Imago
 
@@ -23,8 +23,8 @@ My philosophy is simple: **Ship resilient, high-performance software.** Whether 
 
 ### 🔭 What I'm Building Now
 * **Imago:** My consultancy where we build digital HQs for offline businesses.
-* **Smart Portfolios:** leveraging AI to accelerate development cycles by 50%.
-* **Live Project:** [gbolahan-portfolio-website.vercel.app]([https://gbolahan-portfolio-website.vercel.app](https://gbolahan-portfolio-website-5npkrlctp.vercel.app/)
+* **Smart Portfolios:** Leveraging AI to accelerate development cycles by 50%.
+* **Live Project:** [gbolahan-portfolio-website.vercel.app](https://gbolahan-portfolio-website.vercel.app)
 
 ---
 
