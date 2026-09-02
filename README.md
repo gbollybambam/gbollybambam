@@ -1,37 +1,30 @@
 # Hi there, I'm Gbolahan Olanrewaju. 👋
 
-### 🚀 Lead Full Stack Engineer | Founder of Imago
+## 🚀 Backend Engineer & Systems Architect | Founder of Imago
 
-**I build digital engines that drive business growth.**
+As a final-year Mathematics Researcher and software engineer, I specialize in architecting high-performance backends and resilient cloud infrastructure. I build the invisible engines that power data-heavy, enterprise-grade applications—focusing on structural integrity, secure API design, and automated deployments. 
 
-As the **CEO of Imago** and a final-year Mathematics Researcher, I combine engineering precision with business strategy. I don't just write code—I architect scalable systems that help local businesses transition into global digital competitors.
+At Imago, I don't just write code; I design scalable systems that allow local businesses to transition into global digital competitors. Whether it's containerizing services with Docker, structuring relational databases, or building AI-driven pipelines, I engineer for scale, speed, and security.
 
-My philosophy is simple: **Ship resilient, high-performance software.** Whether it's a complex Django backend or a high-speed Next.js storefront, I focus on stability, speed, and user impact.
+### 🛠️ Core Architecture & Tech Stack
 
----
+| Domain | Technologies |
+| --- | --- |
+| **Backend Frameworks** | Node.js, Express.js, Laravel, PHP, Django |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Cloud & DevOps** | AWS, Docker, CI/CD Pipelines, Linux/Bash |
+| **System Integrations** | Google Gemini (AI), Stripe (Payments), Resend/SendGrid |
+| **Frontend Integration** | Next.js, React, TypeScript, Vercel |
 
-### 🛠️ The Arsenal (Tech Stack)
-
-| **Frontend** | **Backend** | **Infrastructure & AI** |
-| :--- | :--- | :--- |
-| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-
----
-
-### 🔭 What I'm Building Now
-* **Imago:** My consultancy where we build digital HQs for offline businesses.
-* **Smart Portfolios:** Leveraging AI to accelerate development cycles by 50%.
-* **Live Project:** [gbolahan-portfolio-website.vercel.app](https://gbolahan-portfolio-website.vercel.app)
-
----
+### 🔭 Current Engineering Focus
+*   **Infrastructure:** Mastering containerization with Docker and establishing robust CI/CD pipelines.
+*   **Smart Portfolios:** Leveraging Google Gemini to accelerate backend development cycles and automate data processing by 50%.
+*   **Imago:** Architecting robust, cloud-native B2B platforms capable of handling complex transactional workflows.
 
 ### 📫 Connect With Me
-* 💼 **LinkedIn:** [Gbolahan Olanrewaju](https://www.linkedin.com/in/gbolahan-olanrewaju-672880261/)
-* 🎨 **Frontend Mentor:** [@gbollybambam](https://www.frontendmentor.io/profile/gbollybambam)
-* 📧 **Email:** [olanrewajugbolahan226@gmail.com](mailto:olanrewajugbolahan226@gmail.com)
+*   💼 **LinkedIn:** [Gbolahan Olanrewaju](https://linkedin.com/in/gbolahan-olanrewaju-672880261)
+*   📧 **Email:** [olanrewajugbolahan226@gmail.com](mailto:olanrewajugbolahan226@gmail.com)
+*   🌐 **Portfolio:** [gbolahan-portfolio-website](https://gbolahan-portfolio-website-5npkrlctp.vercel.app/)
 
----
-*"Talk is cheap. Show me the code."*
+> *"Architecture is about the important stuff. Whatever that is." — Ralph Johnson*
+> 
