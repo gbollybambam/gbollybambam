@@ -28,6 +28,6 @@ With a strong foundation in **Data Structures and Algorithms**, I focus on writi
 
 -   💼 **LinkedIn:** [Gbolahan Olanrewaju](https://linkedin.com/in/gbolahan-olanrewaju-672880261)
 -   📧 **Email:** [olanrewajugbolahan226@gmail.com](mailto:olanrewajugbolahan226@gmail.com)
--   🌐 **Portfolio:** [gbolahan-portfolio-website](https://gbolahan-portfolio-website-5npkrlctp.vercel.app/)
+-   🌐 **Portfolio:** [gbolahan-portfolio-website](https://alase.dev/)
 
 > *"Complexity is anything that makes software hard to understand or to modify. Good architecture is about managing that complexity."*
